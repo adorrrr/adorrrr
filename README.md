@@ -13,6 +13,7 @@
 <a href="https://discord.gg/2DBHK6dp" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
+---
 
 ### 🛠 Languages & Tools
 <p align="left">
@@ -30,7 +31,7 @@
 
 </p>
 
-
+---
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adorrrr&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
