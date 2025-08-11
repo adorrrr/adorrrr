@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adar</h1>
 <h3 align="center">
-🎓 Final-year Computer Science & Engineering student at Independent University Bangladesh.  
-💻 Passionate about Web Development & Machine Learning.  
-🚀 Entrepreneurial mindset with a love for innovation and positive thinking.
+🎓 Final-year Computer Science & Engineering student at Independent University Bangladesh. Passionate about Web Development & Machine Learning. Entrepreneurial mindset with a love for innovation and positive thinking.
 </h3>
 
----
+
 
 ### 🌐 Connect with Me
 <p align="left">
@@ -16,7 +14,6 @@
 <a href="https://discord.gg/2DBHK6dp" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
----
 
 ### 🛠 Languages & Tools
 <p align="left">
@@ -38,7 +35,7 @@
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
 </p>
 
----
+--
 
 ### 📊 GitHub Stats
 <p align="center">
