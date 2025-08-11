@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adar</h1>
-<h3 align="center">
+<h1 align="left">Hi 👋, I'm Adar</h1>
+<h3 align="left">
 🎓 Final-year Computer Science & Engineering student at Independent University Bangladesh. Passionate about Web Development & Machine Learning. Entrepreneurial mindset with a love for innovation and positive thinking.
 </h3>
 
@@ -32,6 +32,6 @@
 
 
 
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adorrrr&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
