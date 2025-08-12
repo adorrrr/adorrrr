@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Adar</h1>
 <h3 align="left">
-🎓 Final-year Computer Science & Engineering student at Independent University Bangladesh. Passionate about frontend Development & Machine Learning. Entrepreneurial mindset with a love for innovation and positive thinking.
+🎓 Final-year Computer Science & Engineering student at Independent University Bangladesh. Passionate about Frontend Development & Machine Learning. Entrepreneurial mindset with a love for innovation and positive thinking.
 </h3>
 
 
