@@ -2,7 +2,6 @@
 <h3 align="left">
 🎓 Final-year Computer Science & Engineering student at Independent University Bangladesh. Passionate about Frontend Development & Machine Learning. Entrepreneurial mindset with a love for innovation and positive thinking.
 </h3>
-
  
  
 ### 🌐 Connect with Me
