@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Adar</h1>
 <h3 align="left">
-🎓 Final-year Computer Science & Engineering student at Independent University Bangladesh. Passionate about Frontend Development & Machine Learning. Entrepreneurial mindset with a love for innovation and positive thinking.
+🎓 A dedicated Computer Science and Engineering graduate with solid skills in full-stack development using the MERN stack and a strong interest in machine learning research. I aim to create practical, efficient, and user-friendly software solutions while continuing to grow and learn in the tech industry.
 </h3>
 
  
