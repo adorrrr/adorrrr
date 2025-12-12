@@ -1,6 +1,7 @@
 <h1 align="left">Hi 👋, I'm Adar</h1>
 <h3 align="left">
 🎓 A dedicated Computer Science and Engineering graduate with solid skills in full-stack development using the MERN stack and a strong interest in machine learning research. I aim to create practical, efficient, and user-friendly software solutions while continuing to grow and learn in the tech industry.
+ 
 </h3>
 
  
