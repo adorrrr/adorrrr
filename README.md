@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Adar</h1>
 <h3 align="left">
-🎓 A dedicated Computer Science and Engineering graduate with solid skills in full-stack development using the MERN stack and a strong interest in machine learning research. I aim to create practical, efficient, and user-friendly software solutions while continuing to grow and learn in the tech industry.
+🎓 CSE graduate from IUB specializing in Computer Networking (CCNA), Cisco technologies, and Cloud Computing (AWS). Actively involved in Jukti Club and hands-on networking labs. Passionate about building secure, scalable network infrastructures and pursuing a career as a Network Engineer.
  
 </h3>
 
