@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Adar</h1>
+<h1 align="left">Hi 👋, I Am Adar</h1>
 
 <h3 align="left">
 🎓 CSE Graduate from Independent University, Bangladesh (IUB) | 🌐 Networking Engineer | 💻 Web Developer
@@ -54,17 +54,16 @@ Passionate about building secure and reliable network infrastructures and develo
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
 * HTML, CSS & JavaScript
-* React.js & Next.js
+* React.js
 * Node.js & Express.js
 * PHP
-* MySQL, MongoDB & PostgreSQL
+* MySQL & MongoDB 
 * REST APIs
 * Tailwind CSS
 * Git & GitHub
@@ -75,7 +74,6 @@ Passionate about building secure and reliable network infrastructures and develo
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
