@@ -32,7 +32,7 @@ Passionate about building secure and reliable network infrastructures and develo
 ### 🌐 Networking
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" alt="Cisco" width="45" height="45"/>
+<img src="https://cdn.simpleicons.org/cisco" alt="Cisco" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
 </p>
 
@@ -70,23 +70,6 @@ Passionate about building secure and reliable network infrastructures and develo
 
 ---
 
-### ☁️ Cloud & Tools
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adorrrr&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
----
 
 ### 🎯 Current Focus
 
